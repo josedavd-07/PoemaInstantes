@@ -4,6 +4,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: aquamarine;    
+    font-size: 20px;
 }
 .centrarTexto{
   display: flex;
