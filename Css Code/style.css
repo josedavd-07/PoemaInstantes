@@ -63,7 +63,11 @@ body{
   border-radius: 38px;
   border: white 5px solid;
   background-color:cadetblue;
+}
 
-
-
+.ajustarFooter{
+  text-align: center;
+  background-color: darkseagreen;
+  border-radius:10px;
+  border: white 5px solid;
 }
