@@ -10,7 +10,8 @@ body{
 
 /* Selector de clase segundo orden */
 .content-text{
-    width: 58%;
+    /* width: 58% */
+    width: 96%;
     background-color:  #DAC0A3;
     margin-left: auto;
     margin-right: auto;
@@ -60,7 +61,7 @@ body{
   border-radius: 38px;
   border: white 5px solid;
   background-color:cadetblue;
-  
+
 
 
 }
