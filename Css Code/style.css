@@ -1,11 +1,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@500&family=Lobster&family=Mochiy+Pop+One&family=Poppins:wght@300&family=Prompt:wght@300&display=swap');
 
+/* selector de tipo */
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: aquamarine;    
     font-size: 20px;
+    background-image: url('https://www.solofondos.com/wp-content/uploads/2022/02/interior-biblioteca-sala-vacia-leer-libros-estantes-madera_33099-1722.jpg')
 }
+.content-text{
+    width: 55%;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .centrarTexto{
   display: flex;
   justify-content: center;
@@ -50,3 +58,5 @@ body{
   width: 1456px;
   height: 204px;
 }
+
+
